@@ -17,8 +17,8 @@ Why svg?
 How to use
 ----------
 
-Sometimes [Releases](https://github.com/Arthur2e5/Releases) contain some Bitmaps or Optimized
-PNGs. Check them out.
+Sometimes [Releases](https://github.com/Arthur2e5/svg-emotocons/Releases) contain some Bitmaps
+or Optimized PNGs. Check them out.
 
 Ordinary users: 
 - Download and install Inkscape(https://inkscape.org). If you are using Linux, try to check
