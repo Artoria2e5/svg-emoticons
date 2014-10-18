@@ -16,6 +16,10 @@ Why svg?
 
 How to use
 ----------
+
+Sometimes [Releases](https://github.com/Arthur2e5/Releases) contain some Bitmaps or Optimized
+PNGs. Check them out.
+
 Ordinary users: 
 - Download and install Inkscape(https://inkscape.org). If you are using Linux, try to check
   it out in your distribution's software repository. 
@@ -30,3 +34,11 @@ Webmasters:
 - If you are facing old browsers, export it to bitmap just like what ordinary users do.
 - For better size or compatibility, try **File -> Save As -> Optimized SVG** in Inkscape.
   Choose the options you want to use.
+
+COPYING
+-------
+
+See the files' metadata for Copyright information. 
+
+Since those emotocons are mainly used for IM chats, always claiming the author(s) may be impossible.
+Here I reduce this limit so it works only on people who fork those SVG images.
