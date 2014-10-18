@@ -25,7 +25,7 @@ Ordinary users:
   it out in your distribution's software repository. 
 - **File -> Export as PNG.** Choose the suitable file size for you.
 - If you are not happy with the file size of the 24-bit PNG, read 
-  [This thread (Chinese)](www.equn.com/forum/forum.php?mod=viewthread&tid=38948) to get
+  [This thread (Chinese)](https://www.equn.com/forum/forum.php?mod=viewthread&tid=38948) to get
   instructions on optimizing the file size. [RIOT](http://luci.criosweb.ro/riot/) is a nice
   choise if you use Windows. Saving as 16- to 256-color, max-compressed PNG is recommended.
 
