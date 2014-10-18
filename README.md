@@ -23,6 +23,7 @@ or Optimized PNGs. Check them out.
 Ordinary users: 
 - Download and install Inkscape(https://inkscape.org). If you are using Linux, try to check
   it out in your distribution's software repository. 
+- Considering creating a white rectangle as the background before exporting.
 - **File -> Export as PNG.** Choose the suitable file size for you.
 - If you are not happy with the file size of the 24-bit PNG, read 
   [This thread (Chinese)](https://www.equn.com/forum/forum.php?mod=viewthread&tid=38948) to get
