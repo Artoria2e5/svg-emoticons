@@ -20,6 +20,10 @@ How to use
 Sometimes [Releases](https://github.com/Arthur2e5/svg-emotocons/Releases) contain some Bitmaps
 or Optimized PNGs. Check them out.
 
+Use [Download Zip](https://github.com/Arthur2e5/svg-emotocons/archive/master.zip)
+on the right side of the page to get a HEAD snapshot containing all the SVGs; or you can wander
+around the tree and find the one you want to download.
+
 Ordinary users: 
 - Download and install Inkscape(https://inkscape.org). If you are using Linux, try to check
   it out in your distribution's software repository. 
