@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="4500" width="4500" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4500 4500" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="a" y2="2245" gradientUnits="userSpaceOnUse" y1="400" x2="0" x1="0">
+   <stop stop-color="#4d7aff" offset="0"/>
+   <stop stop-color="#ffffff" stop-opacity="1" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linejoin="round" stroke="#d40000" stroke-linecap="round" stroke-width="120" fill="none">
+  <path stroke-linejoin="bevel" stroke-linecap="butt" d="m350 4560c7.5-1399 509-2362 1295-3390l741-971.1 514 801.1h1300l600-750v4310z" fill="url(#a)"/>
+  <path d="m1350 2300 550-400"/>
+  <path d="m3500 1875 950 325"/>
+  <path d="m2280 3250c-171.7 405.6 373.4 529.7 495 50 141.4 540.7 402.4 270.9 462.9 171.5 47-78 37-185-13-272"/>
+  <circle r="200" cy="2650" cx="1725" fill="#d40000"/>
+  <circle r="200" cy="2650" cx="3825" fill="#d40000"/>
+ </g>
+ <text style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="180px" y="1060" x="3560" font-family="&apos;Source Code Pro&apos,monospace;" fill="#4d7aff">WRONG ANSWER</text>
+</svg>

@@ -1,115 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg4137"
-   version="1.1"
-   inkscape:version="0.91pre2 r13516"
-   width="87"
-   height="69"
-   viewBox="0 0 87 69"
-   sodipodi:docname="cat-basic.svg">
-  <title
-     id="title4147">Basic Cat</title>
-  <metadata
-     id="metadata4143">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Basic Cat</dc:title>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Mingye Wang (Arthur2e5) &lt;arthur200126@gmail.com&gt;</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs4141" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1536"
-     inkscape:window-height="803"
-     id="namedview4139"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="6.374209"
-     inkscape:cx="41.620173"
-     inkscape:cy="28.886033"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4137" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 7.558227,68.985834 C 6.537966,59.227876 4.629001,46.21121 25.777924,30.78361 32.518829,23.563081 39.914286,16.16128 46.656712,11.776035 c 1.597654,6.455012 2.180136,12.437014 2.757576,18.416666 L 69.997621,37.28361 86.83853,22.486262"
-     id="path4224"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccc" />
-  <circle
-     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path4714"
-     cx="34.534622"
-     cy="43.30883"
-     r="5.5466237" />
-  <circle
-     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path4714-7"
-     cx="76.454613"
-     cy="56.023384"
-     r="5.5466237" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 41.193441,53.439272 c -12.002281,10.375799 6.335124,14.17053 9.582877,5.622755 -4.303101,14.159743 11.520233,10.321476 12.110672,1.793952"
-     id="path4731"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccc" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 79.113762,45.470382 c 2.588993,1.477439 4.501838,1.919627 5.857123,5.140959"
-     id="path4742"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 32.534625,34.656098 c 2.935097,-0.266543 6.683852,-0.261867 10.871383,-0.110932"
-     id="path4744"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="69" viewBox="0 0 87 69" width="87" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <title>Basic Cat</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Basic Cat</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Mingye Wang (Arthur2e5) &lt;arthur200126@gmail.com&gt;</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by/3.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <path stroke-linejoin="round" d="m7.5582 68.986c-1.0202-9.758-2.9292-22.775 18.22-38.202 6.741-7.221 14.136-14.623 20.879-19.008 1.5977 6.455 2.1801 12.437 2.7576 18.417l20.583 7.091 16.841-14.798" stroke="#000" stroke-linecap="round" stroke-width="2" fill="none"/>
+ <circle cx="34.535" cy="43.309" r="5.5466"/>
+ <circle cx="76.455" cy="56.023" r="5.5466"/>
+ <g stroke-linejoin="round" stroke="#000" stroke-linecap="round" fill="none">
+  <path d="m41.193 53.439c-12.002 10.376 6.3351 14.171 9.5829 5.6228-4.3031 14.16 11.52 10.321 12.111 1.794" stroke-width="1.5"/>
+  <path d="m79.114 45.47c2.589 1.4774 4.5018 1.9196 5.8571 5.141" stroke-width="2"/>
+  <path d="m32.535 34.656c2.9351-0.26654 6.6839-0.26187 10.871-0.11093" stroke-width="2"/>
+ </g>
 </svg>

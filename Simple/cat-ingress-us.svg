@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="80" width="116" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 116 80" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <title>Ingress cat with US</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Ingress cat with US</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Mingye Wang (Arthur2e5) &lt;arthur200126@gmail.com&gt;</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dc:description>The Ultra Strike Image is a png and can be obtained from the releases.https://github.com/Arthur2e5/svg-emoticons/releases/download/v0.1/USL8.png</dc:description>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by/3.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="a" style="color-interpolation-filters:sRGB" height="1.1" width="1" y="-0.05" x="-.021">
+   <feGaussianBlur stdDeviation="0.6"/>
+  </filter>
+ </defs>
+ <g stroke-linejoin="round" stroke-linecap="round" transform="translate(29,-8)">
+  <g filter="url(#a)" stroke-width="1.1" stroke="#cf7a6e">
+   <title>face-addon</title>
+   <g stroke-width="1.309" transform="translate(0,2)">
+    <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 3.678 7.764)"/>
+    <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 9.469 6.866)"/>
+    <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 9.746 10.69)"/>
+    <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 16.35 11.58)"/>
+    <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 19.33 13.38)"/>
+    <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 24.58 14.01)"/>
+    <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 27.88 16.46)"/>
+    <path d="m23 44.26-6.058 5.917" transform="matrix(.8562 0 0 .8249 35.2 16.68)"/>
+    <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 42.64 18.46)"/>
+    <path d="m27.54 40.63-10.6 9.54" transform="matrix(.8562 0 0 .8249 42.75 22.78)"/>
+    <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 47.19 22.67)"/>
+    <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 49.96 24.34)"/>
+    <path d="m24.94 43.58-7.224 7.127" transform="matrix(.8562 0 0 .8249 56.73 26)"/>
+    <path d="m24.94 43.58-7.224 7.127" transform="matrix(.8562 0 0 .8249 63.38 29.66)"/>
+    <path d="m24.94 43.58-7.224 7.127" transform="matrix(.8562 0 0 .8249 59.39 28.44)"/>
+   </g>
+  </g>
+  <path d="m86.84 22.49-16.84 14.79-20.58-7.08c-0.578-5.98-1.16-11.96-2.758-18.42-6.75 4.38-14.14 11.78-20.88 19-21.15 15.43-19.24 28.45-18.22 38.21-10.47-4.01-14.5-12.74-17.22-23.8" stroke="#000" stroke-width="2" fill="none"/>
+ </g>
+ <circle cy="35.31" cx="63.53" r="5.547"/>
+ <circle cy="56.02" cx="105.4" r="5.547"/>
+ <g stroke-linejoin="round" transform="translate(29,-8)" stroke="#000" stroke-linecap="round" fill="none">
+  <path stroke-width="1.5" d="m41.19 53.44c-12 10.38 6.335 14.17 9.583 5.623-4.303 14.16 11.52 10.32 12.11 1.794"/>
+  <path stroke-width="2" d="m79.11 45.47c2.589 1.477 4.502 1.92 5.857 5.141"/>
+  <path stroke-width="2" d="m32.53 34.66c2.935-0.2665 6.684-0.2619 10.87-0.1109"/>
+ </g>
+ <text style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center;font-family:'Source Han Sans CN', 'Source Han Sans', 'Hiragino Sans GB', sans-serif;" xml:space="preserve" font-size="15px" y="75" x="58" fill="#000000">肛死你这<tspan fill="#0000ff">蓝军</tspan></text>
+ <image width="33.26" xlink:href="file:///dnld/L8US.png" transform="rotate(122.8)" height="24.19" y="-49.18" x="2.675" preserveAspectRatio="none"/>
+</svg>

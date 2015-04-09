@@ -43,7 +43,8 @@ Webmasters:
 COPYING
 -------
 
-See the files' metadata for Copyright information. 
+See the files' metadata for Copyright information. If there isn't one in the files, just assume
+CC-BY 4.0 with the copyright holders being the contributors in the file history.
 
 Since those emotocons are mainly used for IM chats, always claiming the author(s) may be impossible.
 Here I reduce this limit so it works only on people who fork those SVG images.
@@ -51,7 +52,8 @@ Here I reduce this limit so it works only on people who fork those SVG images.
 CONTRIBUTING
 ------------
 
-Simply fork & PR. Don't forget to add your copyright info to the Dublin Core metadata.
+Simply fork & PR. Don't forget to add your copyright info to the Dublin Core metadata if you want to
+have the info in the files.
 
 You may want to optimize the SVGs before making a PR since it can help reduce some unnecessary digits and/or
 style attributes.
