@@ -1,7 +1,7 @@
-svg-emotocons
+svg-emoticons
 =============
 
-A collection of svg emotocons that can be used in IM chats and so on. 
+A collection of svg emoticons that can be used in IM chats and so on. 
 
 Many users like me love collecting interesting (or just _moe_) emotocons so they can use
 it over chats. However, many of those chats are quite low-quality (as in image quality), 
@@ -47,3 +47,11 @@ See the files' metadata for Copyright information.
 
 Since those emotocons are mainly used for IM chats, always claiming the author(s) may be impossible.
 Here I reduce this limit so it works only on people who fork those SVG images.
+
+CONTRIBUTING
+------------
+
+Simply fork & PR. Don't forget to add your copyright info to the Dublin Core metadata.
+
+You may want to optimize the SVGs before making a PR since it can help reduce some unnecessary digits and/or
+style attributes.
