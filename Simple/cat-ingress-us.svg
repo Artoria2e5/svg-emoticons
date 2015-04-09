@@ -26,12 +26,12 @@
   </rdf:RDF>
  </metadata>
  <defs>
-  <filter id="a" style="color-interpolation-filters:sRGB" height="1.1" width="1" y="-0.05" x="-.021">
+  <filter id="a" style="color-interpolation-filters:sRGB" height="1.1" width="1" y="-.05" x="-.021">
    <feGaussianBlur stdDeviation="0.6"/>
   </filter>
  </defs>
  <g stroke-linejoin="round" stroke-linecap="round" transform="translate(29,-8)">
-  <g filter="url(#a)" stroke-width="1.1" stroke="#cf7a6e">
+  <g filter="url(#a)" stroke="#cf7a6e" stroke-width="1.1">
    <title>face-addon</title>
    <g stroke-width="1.309" transform="translate(0,2)">
     <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 3.678 7.764)"/>
@@ -50,8 +50,9 @@
     <path d="m24.94 43.58-7.224 7.127" transform="matrix(.8562 0 0 .8249 63.38 29.66)"/>
     <path d="m24.94 43.58-7.224 7.127" transform="matrix(.8562 0 0 .8249 59.39 28.44)"/>
    </g>
+   <path stroke-linejoin="miter" d="m90.18 72.1 1.871 2.058" stroke="#000" stroke-linecap="butt" stroke-width="1px" fill="none"/>
   </g>
-  <path d="m86.84 22.49-16.84 14.79-20.58-7.08c-0.578-5.98-1.16-11.96-2.758-18.42-6.75 4.38-14.14 11.78-20.88 19-21.15 15.43-19.24 28.45-18.22 38.21-10.47-4.01-14.5-12.74-17.22-23.8" stroke="#000" stroke-width="2" fill="none"/>
+  <path stroke="#000" stroke-width="2" fill="none" d="m86.84 22.49-16.84 14.79-20.58-7.08c-0.578-5.98-1.16-11.96-2.758-18.42-6.75 4.38-14.14 11.78-20.88 19-21.15 15.43-19.24 28.45-18.22 38.21-10.47-4.01-14.5-12.74-17.22-23.8"/>
  </g>
  <circle cy="35.31" cx="63.53" r="5.547"/>
  <circle cy="56.02" cx="105.4" r="5.547"/>
@@ -60,6 +61,6 @@
   <path stroke-width="2" d="m79.11 45.47c2.589 1.477 4.502 1.92 5.857 5.141"/>
   <path stroke-width="2" d="m32.53 34.66c2.935-0.2665 6.684-0.2619 10.87-0.1109"/>
  </g>
- <text style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center;font-family:'Source Han Sans CN', 'Source Han Sans', 'Hiragino Sans GB', sans-serif;" xml:space="preserve" font-size="15px" y="75" x="58" fill="#000000">肛死你这<tspan fill="#0000ff">蓝军</tspan></text>
- <image width="33.26" xlink:href="file:///dnld/L8US.png" transform="rotate(122.8)" height="24.19" y="-49.18" x="2.675" preserveAspectRatio="none"/>
+ <text style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="15px" y="75" x="58" font-family="'Source Han Sans CN', 'Source Han Sans', 'Hiragino Sans GB', sans-serif" fill="#000000">肛死你这<tspan fill="#0000ff">蓝军</tspan></text>
+ <image xlink:href="file:///dnld/L8US.png" transform="rotate(122.8)" height="24.19" width="33.26" y="-49.18" x="2.675" preserveAspectRatio="none"/>
 </svg>
