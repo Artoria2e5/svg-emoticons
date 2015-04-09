@@ -32,7 +32,9 @@ Ordinary users:
 - If you are not happy with the file size of the 24-bit PNG, read 
   [This thread (Chinese)](https://www.equn.com/forum/forum.php?mod=viewthread&tid=38948) to get
   instructions on optimizing the file size. [RIOT](http://luci.criosweb.ro/riot/) is a nice
-  choise if you use Windows. Saving as 16- to 256-color, max-compressed PNG is recommended.
+  choise if you use Windows. Saving as 16- to 256-color, max-compressed PNG is recommended. 
+  Blending the image with a white background in RIOT can help you deal with some transparency
+  problems. 
 
 Webmasters:
 - If you are not worried about size or compatibility, just use the SVGs.
