@@ -30,23 +30,24 @@
    <feGaussianBlur stdDeviation="1"/>
   </filter>
  </defs>
- <g stroke-linejoin="round" stroke-linecap="round" transform="translate(29,-8)" fill="none" stroke="#000" stroke-width="2">
+ <g stroke-linejoin="round" transform="translate(29,-8)" stroke="#000" stroke-linecap="round" stroke-width="2" fill="none">
   <g filter="url(#a)" stroke="#cf7a6e" stroke-width="1.1" transform="translate(-4,6)">
    <title>face-addon</title>
    <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 3.678 7.764)"/>
    <path d="m24.94 43.58-8.001 6.589" transform="matrix(.8562 0 0 .8249 9.469 6.866)"/>
    <path d="m33.52 47.26-6.85 5.435"/>
-   <path d="m72.77 59.1-5.792 5.567"/>
+   <path d="m73.71 57.98-5.792 5.567"/>
    <path d="m38.45 49.03-6.85 5.435"/>
-   <path d="m90.18 72.1 1.871 2.058" stroke="none"/>
+   <path stroke="none" d="m90.18 72.1 1.871 2.058"/>
+   <path d="m80.58 59.08-6.85 5.435"/>
   </g>
   <path d="m86.84 22.49-16.84 14.79-20.58-7.08c-0.578-5.98-1.16-11.96-2.758-18.42-6.75 4.38-14.14 11.78-20.88 19-21.15 15.43-19.24 28.45-18.22 38.21-10.47-4.01-14.5-12.74-17.22-23.8"/>
-  <path stroke-width="1.5" d="m41.19 53.44c-12 10.38 6.335 14.17 9.583 5.623-4.303 14.16 11.52 10.32 12.11 1.794"/>
   <path d="m79.11 45.47c2.589 1.477 4.502 1.92 5.857 5.141"/>
   <path d="m32.53 34.66c2.935-0.2665 6.684-0.2619 10.87-0.1109"/>
+  <path stroke-width="1.5" d="m41 53.46c-5.866 5.071-3.963 7.853-1.161 9.825 3.693 2.599 9.083 0.1687 10.74-4.202-1.902 6.259-1.712 9.145 3.037 9.376 6.955 0.3391 8.745-2.824 9.074-7.582"/>
  </g>
  <circle cy="35.31" cx="65.53" r="5.55"/>
- <circle cy="56.02" cx="105.4" r="5.55"/>
+ <circle cy="48.02" cx="105.4" r="5.55"/>
  <text style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="15px" y="75" x="58" font-family="'Source Han Sans CN', 'Source Han Sans', 'Hiragino Sans GB', sans-serif" fill="#000000">肛死你这<tspan fill="#0000ff">蓝军</tspan></text>
  <image xlink:href="file:///dnld/L8US.png" transform="rotate(122.8)" height="24.19" width="33.26" y="-49.18" x="2.675" preserveAspectRatio="none"/>
 </svg>

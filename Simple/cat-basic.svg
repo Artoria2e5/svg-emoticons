@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="69" viewBox="0 0 87 69" width="87" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="69" width="87" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 87 69">
  <title>Basic Cat</title>
  <metadata>
   <rdf:RDF>
@@ -24,12 +24,12 @@
    </cc:License>
   </rdf:RDF>
  </metadata>
- <path stroke-linejoin="round" d="m7.5582 68.986c-1.0202-9.758-2.9292-22.775 18.22-38.202 6.741-7.221 14.136-14.623 20.879-19.008 1.5977 6.455 2.1801 12.437 2.7576 18.417l20.583 7.091 16.841-14.798" stroke="#000" stroke-linecap="round" stroke-width="2" fill="none"/>
- <circle cx="34.535" cy="43.309" r="5.5466"/>
- <circle cx="76.455" cy="56.023" r="5.5466"/>
+ <path stroke-linejoin="round" d="m7.558 68.99c-1.02-9.758-2.929-22.78 18.22-38.2 6.741-7.221 14.14-14.62 20.88-19.01 1.598 6.455 2.18 12.44 2.758 18.42l20.58 7.091 16.84-14.8" stroke="#000" stroke-linecap="round" stroke-width="2" fill="none"/>
+ <circle cy="43.31" cx="34.54" r="5.547"/>
+ <circle cy="56.02" cx="76.46" r="5.547"/>
  <g stroke-linejoin="round" stroke="#000" stroke-linecap="round" fill="none">
-  <path d="m41.193 53.439c-12.002 10.376 6.3351 14.171 9.5829 5.6228-4.3031 14.16 11.52 10.321 12.111 1.794" stroke-width="1.5"/>
-  <path d="m79.114 45.47c2.589 1.4774 4.5018 1.9196 5.8571 5.141" stroke-width="2"/>
-  <path d="m32.535 34.656c2.9351-0.26654 6.6839-0.26187 10.871-0.11093" stroke-width="2"/>
+  <path stroke-width="1.5" d="m41.19 53.44c-5.866 5.071-3.963 7.853-1.161 9.825 3.693 2.599 9.083 0.1687 10.74-4.202-1.902 6.259-1.712 9.145 3.037 9.376 6.955 0.3391 8.745-2.824 9.074-7.582"/>
+  <path stroke-width="2" d="m79.11 45.47c2.589 1.477 4.502 1.92 5.857 5.141"/>
+  <path stroke-width="2" d="m32.54 34.66c2.935-0.2665 6.684-0.2619 10.87-0.1109"/>
  </g>
 </svg>
