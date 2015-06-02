@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="4500" width="4500" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4500 4500" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs>
-  <linearGradient id="a" y2="2245" gradientUnits="userSpaceOnUse" y1="400" x2="0" x1="0">
-   <stop stop-color="#4d7aff" offset="0"/>
-   <stop stop-color="#ffffff" stop-opacity="1" offset="1"/>
-  </linearGradient>
- </defs>
- <g stroke-linejoin="round" stroke="#d40000" stroke-linecap="round" stroke-width="120" fill="none">
-  <path stroke-linejoin="bevel" stroke-linecap="butt" d="m350 4560c7.5-1399 509-2362 1295-3390l741-971.1 514 801.1h1300l600-750v4310z" fill="url(#a)"/>
-  <path d="m1350 2300 550-400"/>
-  <path d="m3500 1875 950 325"/>
-  <path d="m2280 3250c-171.7 405.6 373.4 529.7 495 50 141.4 540.7 402.4 270.9 462.9 171.5 47-78 37-185-13-272"/>
-  <circle r="200" cy="2650" cx="1725" fill="#d40000"/>
-  <circle r="200" cy="2650" cx="3825" fill="#d40000"/>
- </g>
- <text style="text-anchor:middle;text-align:center;font:180px 'Source Code Pro',Consolas,monospace;" xml:space="preserve" y="1060" x="3560" fill="#4d7aff">WRONG ANSWER</text>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="45" width="45" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 45 45">
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs>
+		<linearGradient id="a" gradientUnits="userSpaceOnUse" y1="4" gradientTransform="translate(1.1)" x2="0" y2="22.45">
+			<stop stop-color="#4d7aff" offset="0"/>
+			<stop stop-color="#fff" offset="1"/>
+		</linearGradient>
+	</defs>
+	<g stroke-linejoin="round" transform="translate(-1.1)" stroke="#d40000" stroke-linecap="round" stroke-width="1.2" fill="none">
+		<path stroke-linejoin="bevel" d="m1.45 45.6c0.075-14 5.304-23.81 13-33.9l7.4-9.7 5.14 8h13l6-7.5c7.784 8.48 19.5 28.44 19 43.1z" stroke-linecap="butt" fill="url(#a)"/>
+		<path d="m11.5 23.1 5.5-4"/>
+		<path d="m33 18.85 9.5 3.25"/>
+		<path d="m20.8 32.6c-1.717 4.056 3.734 5.297 4.95 0.5 1.414 5.407 4.024 2.71 4.63 1.715 0.47-0.78 0.37-1.85-0.13-2.72"/>
+		<circle cy="26.6" cx="15.25" r="2" fill="#d40000"/>
+		<circle cy="26.6" cx="36.25" r="2" fill="#d40000"/>
+	</g>
+	<text style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="1.8px" y="10.6" x="32.457783" font-family="&apos;Source Code Pro&apos;, Consolas, monospace" line-height="normal" fill="#4d7aff">WRONG ANSWER</text>
 </svg>

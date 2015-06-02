@@ -11,8 +11,8 @@ cat-\*.svg
 ---------
 
 These files share a base curve, found at `cat-basic.svg`. The eye position and the
-big curve has been changed for better overall results. The closest-to-original one, 
-though, is available as [commit d8d9353](http://git.io/NjKPRg). 
+big curve has been changed for better overall results. `cat-accurate.svg` is a nice
+curve with reflects the old basic cat.
 
 And there is actually something to say about `cat-ignorant.svg`. This file, actually
 the one I first traced, doesn't share a lot of nodes/curves with the basic one. 
@@ -36,3 +36,5 @@ _Cookie_ is a nickname of [@amphineko](https://github.com/amphineko).
 The base file for the cookie set is `cookie-wa.svg`. It's quite simple to get one
 without the ‘Wrong answer’ caption and the gradient — just edit the `defs` and `text`
 nodes. 
+
+c
