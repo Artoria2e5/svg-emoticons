@@ -14,5 +14,5 @@
   <circle r="200" cy="2650" cx="1725" fill="#d40000"/>
   <circle r="200" cy="2650" cx="3825" fill="#d40000"/>
  </g>
- <text style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="180px" y="1060" x="3560" font-family="'Source Code Pro',monospace;" fill="#4d7aff">WRONG ANSWER</text>
+ <text style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="180px" y="1060" x="3560" font-family="'Source Code Pro',Consolas,monospace;" fill="#4d7aff">WRONG ANSWER</text>
 </svg>
