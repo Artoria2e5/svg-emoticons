@@ -40,7 +40,8 @@ around the tree and find the one you want to download.
 - If you are not worried about size or compatibility, just use the SVGs.
 - If you are facing old browsers, export it to bitmap just like what ordinary users do.
 - For better size or compatibility, try **File -> Save As -> Optimized SVG** in Inkscape.
-  Choose the options you want to use.
+  Choose the options you want to use. (Actually to make files look prettier, I am already
+  optimizing the files in-repo, but anyway you might want more control over the files..)
 
 COPYING
 -------
