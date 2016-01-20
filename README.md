@@ -31,10 +31,13 @@ around the tree and find the one you want to download.
 - **File -> Export as PNG.** Choose the suitable file size for you.
 - If you are not happy with the file size of the 24-bit PNG, read 
   [This thread (Chinese)](https://www.equn.com/forum/forum.php?mod=viewthread&tid=38948) to get
-  instructions on optimizing the file size. [RIOT](http://luci.criosweb.ro/riot/) is a nice
-  choise if you use Windows. Saving as 16- to 256-color, max-compressed PNG is recommended. 
-  Blending the image with a white background in RIOT can help you deal with some transparency
-  problems. 
+  instructions on optimizing the file size.
+  - [RIOT](http://luci.criosweb.ro/riot/) is a nice
+    choise if you use Windows. Saving as 16- to 256-color, max-compressed PNG is recommended. 
+    Blending the image with a white background in RIOT can help you deal with some transparency
+    problems. 
+  - Using Adobe (R) Photoshop (R) or Paint.NET works better for images with transparency. The
+    decision is up to you.
 
 **Webmasters:**
 - If you are not worried about size or compatibility, just use the SVGs.
