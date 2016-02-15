@@ -65,4 +65,4 @@ You may want to optimize the SVGs before making a PR since it can help reduce so
 digits and/or style attributes. Four significant digits, shoren color values, CSS2XML, Group
 collapsing and creating for similar attributes, working around renderer bugs and removing/
 shortening IDs should be suitable for most cases. For images with smooth nodes, consider
-keeping editor data. Do NOT remove metadata or comments. Use spaces for indentation.
+keeping editor data. Do NOT remove metadata or comments. Use tabs for indentation.
