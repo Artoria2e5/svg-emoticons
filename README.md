@@ -17,8 +17,8 @@ Why svg?
 How to use
 ----------
 
-Sometimes [Releases](https://github.com/Arthur2e5/svg-emoticons/Releases) contain some Bitmaps
-or Optimized SVGs. Check them out.
+Sometimes [Releases](https://github.com/Arthur2e5/svg-emoticons/releases) contain some Bitmaps
+or Optimized SVGs. Check them out. If you are looking for those Ingress images, just go there.
 
 Use [Download Zip](https://github.com/Arthur2e5/svg-emoticons/archive/master.zip)
 on the right side of the page to get a HEAD snapshot containing all the SVGs; or you can wander
