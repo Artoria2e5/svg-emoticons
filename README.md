@@ -30,7 +30,7 @@ around the tree and find the one you want to download.
 - Considering creating a white rectangle as the background before exporting.
 - **File -> Export as PNG.** Choose the suitable file size for you.
 - If you are not happy with the file size of the 24-bit PNG, read 
-  [This thread (Chinese)](https://www.equn.com/forum/forum.php?mod=viewthread&tid=38948) to get
+  [This thread (Chinese)](http://www.equn.com/forum/forum.php?mod=viewthread&tid=38948) to get
   instructions on optimizing the file size.
   - [pngquant](https://pngquant.org/) is the best choice for PNGs. It generates a PNG with max.
     256 colors, and preserves full alpha transparency. 
