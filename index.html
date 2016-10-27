@@ -19,7 +19,92 @@
     </section>
 
     <section class="main-content">
-      <p>README_CONTENT_HERE.</p>
+      <h1>
+<a id="svg-emoticons" class="anchor" href="#svg-emoticons" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>svg-emoticons</h1>
+
+<p>A collection of svg emoticons that can be used in IM chats and so on. </p>
+
+<p>Many users like me love collecting interesting (or just <em>moe</em>) emoticons so they can use
+it over chats. However, many of those chats are quite low-quality (as in image quality), 
+and doing the fork-and-recompress process can make a huge decrease on the image qualities.</p>
+
+<p>This repository mainly collect vectorized versions of emoticons, redrawn mainly by me.</p>
+
+<p>Why svg?</p>
+
+<ul>
+<li>SVG is a great open format for vector images.</li>
+<li>SVG consists of XML code, and editing it creates a lot of diff — that is absolutely the
+best way to write large quantities of code. (Just Kidding.)</li>
+</ul>
+
+<h2>
+<a id="how-to-use" class="anchor" href="#how-to-use" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How to use</h2>
+
+<p>Sometimes <a href="https://github.com/Arthur2e5/svg-emoticons/releases">Releases</a> contain some Bitmaps
+or Optimized SVGs. Check them out. If you are looking for those Ingress images, just go there.</p>
+
+<p>Use <a href="https://github.com/Arthur2e5/svg-emoticons/archive/master.zip">Download Zip</a>
+on the right side of the page to get a HEAD snapshot containing all the SVGs; or you can wander
+around the tree and find the one you want to download.</p>
+
+<p><strong>Ordinary users:</strong> </p>
+
+<ul>
+<li>Download and install Inkscape(<a href="https://inkscape.org">https://inkscape.org</a>). If you are using Linux, try to check
+it out in your distribution's software repository. </li>
+<li>Considering creating a white rectangle as the background before exporting.</li>
+<li>
+<strong>File -&gt; Export as PNG.</strong> Choose the suitable file size for you.</li>
+<li>If you are not happy with the file size of the 24-bit PNG, read 
+<a href="http://www.equn.com/forum/forum.php?mod=viewthread&amp;tid=38948">This thread (Chinese)</a> to get
+instructions on optimizing the file size.
+
+<ul>
+<li>
+<a href="https://pngquant.org/">pngquant</a> is the best choice for PNGs. It generates a PNG with max.
+256 colors, and preserves full alpha transparency. </li>
+<li>
+<a href="http://luci.criosweb.ro/riot/">RIOT</a> is a nice
+choise if you use Windows. Saving as 16- to 256-color, max-compressed PNG is recommended. 
+Blending the image with a white background in RIOT can help you deal with some transparency
+problems. </li>
+<li>Using Adobe (R) Photoshop (R) or Paint.NET works better for images with transparency. The
+decision is up to you.</li>
+</ul>
+</li>
+</ul>
+
+<p><strong>Webmasters:</strong></p>
+
+<ul>
+<li>If you are not worried about size or compatibility, just use the SVGs.</li>
+<li>If you are facing old browsers, export it to bitmap just like what ordinary users do.</li>
+<li>For better size or compatibility, try <strong>File -&gt; Save As -&gt; Optimized SVG</strong> in Inkscape.
+Choose the options you want to use. (Actually to make files look prettier, I am already
+optimizing the files in-repo, but anyway you might want more control over the files..)</li>
+</ul>
+
+<h2>
+<a id="copying" class="anchor" href="#copying" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>COPYING</h2>
+
+<p>See the files' metadata for Copyright information. If there isn't one in the files, just assume
+CC-BY 4.0 with the copyright holders being the contributors in the file history.</p>
+
+<p>Since those emoticons are mainly used for IM chats, always claiming the author(s) may be impossible.
+Here I reduce this limit so it works only on people who fork those SVG images.</p>
+
+<h2>
+<a id="contributing" class="anchor" href="#contributing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>CONTRIBUTING</h2>
+
+<p>Simply fork &amp; PR. Don't forget to add your copyright info to the Dublin Core metadata if you want to
+have the info in the files.</p>
+
+<p>You may want to optimize the SVGs before making a PR since it can help reduce some unnecessary 
+digits and/or style attributes. Four significant digits, shoren color values, CSS2XML, Group
+collapsing and creating for similar attributes, working around renderer bugs and removing/
+shortening IDs should be suitable for most cases. For images with smooth nodes, consider
+keeping editor data. Do NOT remove metadata or comments. Use tabs for indentation.</p>
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/Artoria2e5/svg-emoticons">Svg-emoticons</a> is maintained by <a href="https://github.com/Artoria2e5">Artoria2e5</a>.</span>
