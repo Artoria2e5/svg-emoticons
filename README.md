@@ -14,8 +14,8 @@ Why svg?
 - SVG consists of XML code, and editing it creates a lot of diff — that is absolutely the
   best way to write large quantities of code. (Just Kidding.)
 
-How to use
-----------
+Usage
+-----
 
 Sometimes [Releases](https://github.com/Arthur2e5/svg-emoticons/releases) contain some Bitmaps
 or Optimized SVGs. Check them out. If you are looking for those Ingress images, just go there.
@@ -24,7 +24,7 @@ Use [Download Zip](https://github.com/Arthur2e5/svg-emoticons/archive/master.zip
 on the right side of the page to get a HEAD snapshot containing all the SVGs; or you can wander
 around the tree and find the one you want to download.
 
-**Ordinary users:** 
+### Everyday use
 - Download and install Inkscape(https://inkscape.org). If you are using Linux, try to check
   it out in your distribution's software repository. 
 - Considering creating a white rectangle as the background before exporting.
@@ -41,7 +41,7 @@ around the tree and find the one you want to download.
   - Using Adobe (R) Photoshop (R) or Paint.NET works better for images with transparency. The
     decision is up to you.
 
-**Webmasters:**
+### Frontend deployment
 - If you are not worried about size or compatibility, just use the SVGs.
 - If you are facing old browsers, export it to bitmap just like what ordinary users do.
 - For better size or compatibility, try **File -> Save As -> Optimized SVG** in Inkscape.
